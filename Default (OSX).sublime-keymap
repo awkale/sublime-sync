@@ -1,0 +1,35 @@
+[
+{ "keys": ["command+shift+r"], "command": "goto_symbol_in_project" },
+{ "keys": ["super+v"], "command": "paste_and_indent" },
+{ "keys": ["super+shift+v"], "command": "paste" },
+{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
+{ "keys": ["super+shift+a"], "command": "expand_selection", "args": {"to": "tag"} },
+{
+    "keys": ["ctrl+shift+super+up"],
+    "command": "bh_key",
+    "args":
+    {
+        "lines" : true,
+        "plugin":
+        {
+            "type": ["__all__"],
+            "command": "bh_modules.bracketselect",
+            "args": {"select": "left"}
+        }
+    }
+},
+{
+    "keys": ["ctrl+shift+super+down"],
+    "command": "bh_key",
+    "args":
+    {
+        "lines" : true,
+        "plugin":
+        {
+            "type": ["__all__"],
+            "command": "bh_modules.bracketselect",
+            "args": {"select": "right"}
+        }
+    }
+}
+]

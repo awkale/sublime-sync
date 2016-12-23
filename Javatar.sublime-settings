@@ -1,0 +1,29 @@
+{
+	"javatar_gp": 0,
+	"jdk_version":
+	{
+		"use": ""
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"2":
+		{
+			"folders":
+			[
+				{
+					"path": "/Users/alexkale/Sites/coding/AngularFundamentalsFiles-master"
+				}
+			]
+		},
+		"3":
+		{
+			"folders":
+			[
+				{
+					"path": "/Users/alexkale/Library/Application Support/Sublime Text 3/Packages/User"
+				}
+			]
+		}
+	}
+}
