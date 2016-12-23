@@ -1,7 +1,26 @@
 {
 	"bootstrapped": true,
+	"debug": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Package Control"
+		"Alignment",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"ERB Autocomplete",
+		"Git",
+		"Gutter Color",
+		"HTML5",
+		"JavaScriptNext - ES6 Syntax",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"WakaTime"
 	]
 }
