@@ -4,6 +4,7 @@
 	"binary_file_patterns":
 	[
 		"build/*",
+		"dist/*",
 		".git/*",
 		"*.jpg",
 		"*.jpeg",
@@ -19,7 +20,8 @@
 		"*.jar",
 		"*.zip",
 		".asset-cache/*",
-		"_site/*"
+		"_site/*",
+		"site/*"
 	],
 	"bold_folder_labels": true,
 	"caret_extra_width": 10,
