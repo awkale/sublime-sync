@@ -41,6 +41,13 @@
 	"font_size": 14.0,
 	"ignored_packages":
 	[
+		"CSS3",
+		"FileDiffs",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-haml",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-ruby",
 		"Vintage",
 		"Vintageous"
 	],
