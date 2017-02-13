@@ -1,0 +1,7 @@
+{
+    // OSX workspace is different with windows,
+    // In OSX, workspace should be:
+    // "/Users/<UserName>/workspace/gist-workspace"
+    // If workspace is empty, it will be set as {packages_path}/User/HaoGist
+    "token": "94f63175627c4a3e101a2b4c1181b86d6aaad991"
+}
