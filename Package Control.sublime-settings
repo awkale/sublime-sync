@@ -28,6 +28,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"tern_for_sublime",
 		"WakaTime"
 	]
 }
