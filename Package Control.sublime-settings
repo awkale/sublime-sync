@@ -11,7 +11,6 @@
 		"Babel",
 		"BracketHighlighter",
 		"Case Conversion",
-		"Clickability Velocity",
 		"Color Highlighter",
 		"Console Wrap",
 		"CSS3",
@@ -20,6 +19,7 @@
 		"Emmet",
 		"ERB Autocomplete",
 		"File Rename",
+		"Fix Mac Path",
 		"Git",
 		"Git blame",
 		"GitGutter",
@@ -38,9 +38,11 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-eslint",
 		"SyncedSideBar",
 		"TerminalView",
+		"TodoReview",
 		"TypeScript",
 		"WakaTime"
 	]

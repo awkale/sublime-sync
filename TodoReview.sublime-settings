@@ -1,0 +1,13 @@
+{
+    "patterns": {
+        "TODO": "TODO[\\s]*?(?P<todo>.*)$",
+        "NOTE": "NOTE[\\s]*?:[\\s]*(?P<note>.*)$",
+        "FIXME": "FIX ?ME[\\s]*?:[\\s]*(?P<fixme>.*)$",
+    },
+    "exclude_folders": [
+    "*lib*",
+    "*node_modules*",
+    "*dist*",
+    "interfaceguide/dist*"
+    ]
+}
