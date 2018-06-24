@@ -19,14 +19,16 @@
 		"HTML5",
 		"JavaScript Completions",
 		"JavaScriptNext - ES6 Syntax",
-		"Markdown Preview",
+		"MarkdownPreview",
 		"Material Theme",
 		"Package Control",
+		"Python 3",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
+		"TypeScript",
 		"WakaTime"
 	]
 }
