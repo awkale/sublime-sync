@@ -1,0 +1,16 @@
+{
+  "prettier_options": {
+    // Fit code within this line limit
+    "printWidth": 200,
+
+    // If true, will use single instead of double quotes
+    "singleQuote": true,
+    // Include parentheses around a sole arrow function parameter.
+    //
+    // Valid Options:
+    //
+    // - "avoid" (default) - Omit parentheses when possible. Example: `x => x`
+    // - "always" - Always include parentheses. Example: `(x) => x`
+    "arrowParens": "always"
+  }
+}

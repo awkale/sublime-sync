@@ -99,6 +99,7 @@
 	"ignored_packages":
 	[
 		"CSS",
+		"Fix Mac Path",
 		"Gitignored File Excluder",
 		"SublimeLinter-haml",
 		"SublimeLinter-jshint",
